@@ -1,18 +1,31 @@
 # Olá, eu sou Carlos Eduardo
 
-> Iniciando minha jornada em Desenvolvimento de Software. Ainda tropeçando nos bugs, mas aprendendo e evoluindo — um commit de cada vez.
+Iniciando minha jornada em Desenvolvimento de Software. Ainda tropeçando nos bugs, mas aprendendo e evoluindo — um commit de cada vez.
 
 ---
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, começando minha jornada na tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou começando a construir minha história na área de tecnologia.
 
-Ainda aprendendo, errando, quebrando a cabeça e tentando de novo. O importante é continuar evoluindo.
+Ainda estou descobrindo muita coisa pelo caminho, quebrando a cabeça com códigos que deveriam funcionar e comemorando quando finalmente funcionam.
+
+Meu objetivo é aprender cada vez mais, transformar ideias em projetos e, aos poucos, construir uma carreira sólida em tecnologia.
 
 ---
 
-## Tecnologias
+## O que estou estudando
+
+- Java
+- HTML e CSS
+- JavaScript
+- SQL e Banco de Dados
+- 
+Ainda não sei tudo — bem longe disso. Mas estou aprendendo um pouco mais a cada projeto.
+
+---
+
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -22,83 +35,13 @@ Ainda aprendendo, errando, quebrando a cabeça e tentando de novo. O importante 
 
 ---
 
-## Minha evolução
-
-<div align="center">
-
-<table>
-<tr>
-<td width="220"><b>Área</b></td>
-<td width="400"><b>Progresso</b></td>
-<td width="150"><b>Status</b></td>
-</tr>
-
-<tr>
-<td>Programação</td>
-<td>
-<img src="https://progress-bar.dev/70/?width=300&color=3b82f6">
-</td>
-<td>Em evolução</td>
-</tr>
-
-<tr>
-<td>Java</td>
-<td>
-<img src="https://progress-bar.dev/60/?width=300&color=22c55e">
-</td>
-<td>Estudando</td>
-</tr>
-
-<tr>
-<td>Python</td>
-<td>
-<img src="https://progress-bar.dev/45/?width=300&color=facc15">
-</td>
-<td>Estudando</td>
-</tr>
-
-<tr>
-<td>SQL / Banco de Dados</td>
-<td>
-<img src="https://progress-bar.dev/55/?width=300&color=a855f7">
-</td>
-<td>Estudando</td>
-</tr>
-
-<tr>
-<td>Desenvolvimento Web</td>
-<td>
-<img src="https://progress-bar.dev/40/?width=300&color=06b6d4">
-</td>
-<td>Construindo base</td>
-</tr>
-
-<tr>
-<td>Git / GitHub</td>
-<td>
-<img src="https://progress-bar.dev/65/?width=300&color=22c55e">
-</td>
-<td>Em prática</td>
-</tr>
-
-</table>
-
-<br>
-
-> Não estou tentando saber tudo de uma vez.  
-> **Estou tentando ficar melhor a cada projeto.**
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoLS&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoLS&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&locale=pt-br"/>
 
 </div>
 
@@ -108,7 +51,9 @@ Ainda aprendendo, errando, quebrando a cabeça e tentando de novo. O importante 
 
 ### Sistema de Empréstimo de Livros
 
-Projeto desenvolvido para colocar em prática meus conhecimentos de programação e banco de dados.
+Um dos projetos que estou desenvolvendo durante minha jornada de aprendizado.
+
+A ideia é criar um sistema capaz de organizar uma biblioteca e facilitar o gerenciamento de livros, usuários e empréstimos.
 
 **Funcionalidades:**
 
@@ -120,17 +65,58 @@ Projeto desenvolvido para colocar em prática meus conhecimentos de programaçã
 - Registro de devoluções
 - Geração de relatórios
 
-**Tecnologias:**
+**Tecnologias:** Java, SQL e Banco de Dados.
 
-`Java` `SQL` `Banco de Dados`
-
-> Ainda está em evolução, assim como eu.
+Ainda está em evolução, assim como eu. Cada funcionalidade nova é mais uma coisa que aprendo no caminho.
 
 ---
 
-## O que estou buscando
+## O que quero alcançar
 
-Quero transformar meus estudos em projetos reais e construir minha carreira na área de tecnologia.
+Quero construir uma carreira na área de tecnologia e me tornar um desenvolvedor cada vez mais preparado.
 
-```text
-Aprender → Praticar → Errar → Corrigir → Melhorar → Repetir
+Por enquanto, meus objetivos são:
+
+- Aprender programação de verdade, não só decorar código
+- Melhorar minha lógica de programação
+- Aprofundar meus conhecimentos em Java
+- Aprender Python
+- Evoluir em SQL e Banco de Dados
+- Aprender desenvolvimento web
+- Criar projetos cada vez melhores
+- Construir um portfólio que mostre minha evolução
+- Conseguir minha primeira oportunidade na área de tecnologia
+
+Um passo de cada vez. Sem pressa, mas sem parar.
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas — ADS**
+
+Atualmente construindo minha base acadêmica e prática para entrar cada vez mais fundo no mundo da tecnologia.
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Ainda estou começando, mas já comecei.**
+
+</div>
