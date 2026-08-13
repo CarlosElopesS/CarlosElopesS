@@ -20,7 +20,6 @@ Meu objetivo é aprender cada vez mais, transformar ideias em projetos e, aos po
 - HTML e CSS
 - JavaScript
 - SQL e Banco de Dados
-- 
 Ainda não sei tudo — bem longe disso. Mas estou aprendendo um pouco mais a cada projeto.
 
 ---
@@ -32,20 +31,6 @@ Ainda não sei tudo — bem longe disso. Mas estou aprendendo um pouco mais a ca
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,postgres,git,github,vscode,eclipse" />
 
 </div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&locale=pt-br"/>
-
-</div>
-
----
 
 ## Projetos
 
