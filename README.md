@@ -88,12 +88,12 @@ Atualmente construindo minha base acadêmica e prática para entrar cada vez mai
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/CarlosElopesS/CarlosElopesS">
+<img src="https://img.shields.io/badge/GitHub-CarlosElopesS-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/carlos-eduardo-300b89266/">
+<img src="https://img.shields.io/badge/LinkedIn-Carlos%20Eduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
